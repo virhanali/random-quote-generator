@@ -1,5 +1,12 @@
 <h1 align="center">Random quote generator</h1>
 
+<div align="center"> 
+    <h3>
+    <a href="https://virhan-quote-generator.netlify.app/">
+      Demo
+    </a>
+    </h3>
+</div>
 ## How To Use
 
 <!-- Example: -->
@@ -14,4 +21,3 @@ $ npm install
 # Run the app
 $ yarn dev
 ```
-
